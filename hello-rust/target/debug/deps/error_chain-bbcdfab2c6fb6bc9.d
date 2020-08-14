@@ -1,0 +1,11 @@
+C:\Users\porsc\Documents\Rust\hello-rust\target\debug\deps\error_chain-bbcdfab2c6fb6bc9.rmeta: C:\Users\porsc\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\lib.rs C:\Users\porsc\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_error.rs C:\Users\porsc\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\error_chain.rs C:\Users\porsc\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_main.rs C:\Users\porsc\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\example_generated.rs
+
+C:\Users\porsc\Documents\Rust\hello-rust\target\debug\deps\liberror_chain-bbcdfab2c6fb6bc9.rlib: C:\Users\porsc\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\lib.rs C:\Users\porsc\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_error.rs C:\Users\porsc\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\error_chain.rs C:\Users\porsc\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_main.rs C:\Users\porsc\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\example_generated.rs
+
+C:\Users\porsc\Documents\Rust\hello-rust\target\debug\deps\error_chain-bbcdfab2c6fb6bc9.d: C:\Users\porsc\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\lib.rs C:\Users\porsc\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_error.rs C:\Users\porsc\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\error_chain.rs C:\Users\porsc\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_main.rs C:\Users\porsc\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\example_generated.rs
+
+C:\Users\porsc\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\lib.rs:
+C:\Users\porsc\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_error.rs:
+C:\Users\porsc\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\error_chain.rs:
+C:\Users\porsc\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\quick_main.rs:
+C:\Users\porsc\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.10.0\src\example_generated.rs:
