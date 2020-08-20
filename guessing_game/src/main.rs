@@ -1,7 +1,12 @@
 use std::io;
+use rand::Rng;
 
 fn main(){
     println!("Guess the number!");
+
+    let secret_number = rand::thread_rng().gen_range(1,101);
+
+    println!("The secret number is: {}", secret_number);
 
     println!("Please input your guess.");
 
@@ -14,4 +19,7 @@ fn main(){
         .expect("Failed to read line"); //Result has a method called expect
                                         //for what to print when the program crashes
     println!("You guessed: {}", guess); //{} means a varaible will be printed in its place
+    //The Cargo.lock file keeps track of the versions of dependencies we are using
+    //If we want to update cargos we use the update command
+
 }
